@@ -2,9 +2,6 @@
 
 ## First year
 
-### 1st sem
-* Linear Algebra
-* Frontiers of AI
 
 #### 2nd sem
 * ICD
