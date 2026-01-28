@@ -4,11 +4,11 @@
 
 ### 2nd Semester
 
--business economics
--Organizational behaviour
--Marketing Manaagement
--Indian Constitution
--Introduction To Environment and Sustainability
+- business economics
+- Organizational behaviour
+- Marketing Manaagement
+- Indian Constitution
+- Introduction To Environment and Sustainability
 - Enhancing Work Porductivity using spreadsheet
 
 
